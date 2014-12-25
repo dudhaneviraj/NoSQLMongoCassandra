@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry exported="true" kind="lib" path="/Users/sharanya/Downloads/cassandra-java-driver-2.0.2"/>
+	<classpathentry exported="true" kind="lib" path="/Users/sharanya/Downloads/cassandra-driver-core-2.0.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="/Users/sharanya/Downloads/slf4j-api-1.7.5.jar"/>
+	<classpathentry exported="true" kind="lib" path="/Users/sharanya/Downloads/netty-3.9.0.Final.jar"/>
+	<classpathentry exported="true" kind="lib" path="/Users/sharanya/Downloads/guava-16.0.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="/Users/sharanya/Downloads/metrics-core-3.0.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="/Users/sharanya/Downloads/snappy-java-1.1.1.6.jar"/>
+	<classpathentry exported="true" kind="lib" path="/Users/sharanya/Downloads/lz4-1.2.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="/Users/sharanya/Downloads/java-driver-2.1"/>
+	<classpathentry exported="true" kind="lib" path="/Users/sharanya/Downloads/NoSQL Exploration/226 Project 2/Cassandra Exploration/CassandraProj2/jars/slf4j-jdk14-1.7.5.jar"/>
+	<classpathentry exported="true" kind="lib" path="/Users/sharanya/Downloads/org.apache.commons.io-2.1-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="/Users/sharanya/Downloads/org.apache.commons.io-2.4-sources.jar"/>
+	<classpathentry kind="lib" path="/Users/sharanya/Downloads/commons-io-2.4/commons-io-2.4-javadoc.jar"/>
+	<classpathentry kind="lib" path="/Users/sharanya/Downloads/commons-io-2.4/commons-io-2.4-sources.jar"/>
+	<classpathentry kind="lib" path="/Users/sharanya/Downloads/commons-io-2.4/commons-io-2.4-test-sources.jar"/>
+	<classpathentry kind="lib" path="/Users/sharanya/Downloads/commons-io-2.4/commons-io-2.4-tests.jar"/>
+	<classpathentry kind="lib" path="/Users/sharanya/Downloads/commons-io-2.4/commons-io-2.4.jar"/>
+	<classpathentry exported="true" kind="lib" path="/Users/sharanya/Downloads/junit-4.11.jar"/>
+	<classpathentry kind="lib" path="/Users/sharanya/Downloads/hamcrest-all-1.3.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
